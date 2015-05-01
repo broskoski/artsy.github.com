@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mobile | Artsy Engineering]]></title>
   <link href="http://artsy.github.io/blog/categories/mobile/atom.xml" rel="self"/>
   <link href="http://artsy.github.io/"/>
-  <updated>2015-04-29T11:06:30-04:00</updated>
+  <updated>2015-05-01T15:07:39-04:00</updated>
   <id>http://artsy.github.io/</id>
   <author>
     <name><![CDATA[Artsy]]></name>
@@ -32,7 +32,7 @@
 <!-- more -->
 
 
-<p>Credit where credit is due, when we were <a href="/blog/2014/11/13/eidolon-retrospective/">working on Eidolon</a>, our CTO <a href="http://code.dblock.org/">dB</a> just casually tossed the idea that, really, Eigen should be open source too. Eigen is the code name for the <a href="http://iphone.artsy.net/">Artsy iOS app</a>. This totally threw me for a loop, we were only just getting to a point where we could build an app from scratch in the open. Trying to get a project that had existed for years and had it's own momentum converted would take a lot of thinking about.</p>
+<p>Credit where credit is due, when we were <a href="/blog/2014/11/13/eidolon-retrospective/">working on Eidolon</a>, our CTO <a href="http://code.dblock.org/">dB</a> just casually tossed the idea that, really, Eigen should be open source too. Eigen is the code name for the <a href="http://iphone.artsy.net/">Artsy iOS app</a>. This totally threw me for a loop, we were only just getting to a point where we could build an app from scratch in the open. Trying to get a project that had existed for years and had its own momentum converted would take a lot of thinking about.</p>
 
 <p>We devoted time at the end of 2014 to understand what the constraints were for getting the app opened. From a purely functional perspective we would have to start with a <a href="https://github.com/artsy/mobile/issues/11">drastic decision</a> around the repo itself.</p>
 
@@ -98,7 +98,7 @@
 
 <blockquote><p>Our team intrinsically believes in the ideas of open source. Though our individual motivations vary — from a conviction in the power of education to a determination to help others see from giants’ shoulders — we all maintain the value of open source.</p></blockquote>
 
-<p>iOS at Artsy is characterized by a culture of open source stewardship. Although our team is small, our contributions to the Cocoa developer community are significant. We hope our article sheds some light on our development and testing practices while also providing a high-level look into our team’s philosophy. If you’d like to learn more, feel free to reach out to us at <a href="&#109;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#109;&#111;&#98;&#x69;&#108;&#101;&#64;&#x61;&#x72;&#x74;&#x73;&#x79;&#x2e;&#x6e;&#101;&#x74;">&#x6d;&#111;&#x62;&#105;&#x6c;&#101;&#64;&#97;&#114;&#116;&#x73;&#121;&#46;&#x6e;&#x65;&#116;</a> or <a href="https://twitter.com/artsyopensource">@ArtsyOpenSource</a>.</p>
+<p>iOS at Artsy is characterized by a culture of open source stewardship. Although our team is small, our contributions to the Cocoa developer community are significant. We hope our article sheds some light on our development and testing practices while also providing a high-level look into our team’s philosophy. If you’d like to learn more, feel free to reach out to us at <a href="&#109;&#97;&#x69;&#x6c;&#116;&#111;&#58;&#109;&#x6f;&#98;&#105;&#x6c;&#x65;&#64;&#97;&#x72;&#x74;&#115;&#121;&#x2e;&#110;&#101;&#116;">&#x6d;&#111;&#98;&#105;&#x6c;&#x65;&#x40;&#x61;&#x72;&#x74;&#x73;&#121;&#x2e;&#x6e;&#x65;&#x74;</a> or <a href="https://twitter.com/artsyopensource">@ArtsyOpenSource</a>.</p>
 ]]></content>
   </entry>
   
